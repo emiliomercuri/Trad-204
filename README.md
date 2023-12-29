@@ -5,3 +5,5 @@ The Trad-204 can be used to study the Tradescantia cells colour and form anomali
 
 Here is a random sample of the dataset:
 ![Trad_github](https://github.com/emiliomercuri/Trad-204/assets/6810279/6d9e18ef-82e3-40b1-b53c-323a88ff27e2)
+
+The folder "Datasets" contain the Trad-204 dataset and a subset of it with 106 images.
