@@ -6,6 +6,7 @@ The Trad-204 can be used to study the Tradescantia cells colour and form anomali
 https://www.dropbox.com/scl/fi/f5k8mwuvqaatjs60rlz9f/Trad_github.png?rlkey=866a92tpgn7x4irsyn3gl0s78&dl=1
 
 
-![Alt text]([image link](https://www.dropbox.com/scl/fi/f5k8mwuvqaatjs60rlz9f/Trad_github.png?rlkey=866a92tpgn7x4irsyn3gl0s78&dl=1
-)https://www.dropbox.com/scl/fi/f5k8mwuvqaatjs60rlz9f/Trad_github.png?rlkey=866a92tpgn7x4irsyn3gl0s78&dl=1
+![Alt text]([https://www.dropbox.com/scl/fi/f5k8mwuvqaatjs60rlz9f/Trad_github.png?rlkey=866a92tpgn7x4irsyn3gl0s78&dl=1
+](https://www.dropbox.com/scl/fi/f5k8mwuvqaatjs60rlz9f/Trad_github.png?rlkey=866a92tpgn7x4irsyn3gl0s78&dl=1
+)
 )
